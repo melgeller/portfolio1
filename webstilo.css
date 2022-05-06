@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    list-style: none;
+}
+
+a {
+    color: grey;
+    margin: 40px;
+}
+
+.header {
+margin-top: 30px;
+text-align: center;
+margin: 50px;
+
+}
+
+.img {
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+
+.logo {
+    width: 100px;
+    margin-bottom: 180px;
+}
